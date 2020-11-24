@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "49E8574A-4840-414A-90BB-8723B198A789"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29A4507F-50F7-4D87-AF99-377AAE1ECEF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListingsApp/ViewController/HomeVC/ListingsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5B8569B-3A9D-4C0A-9F6B-EB4E01CBF3C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListingsApp/Models/ViewModels/ListingViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchListings()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F5B8569B-3A9D-4C0A-9F6B-EB4E01CBF3C5 - 5a70671c349eb1c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListingsApp.ListingViewModel.fetchListings() -&gt; ()"
+                  moduleName = "ListingsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ijaz/Desktop/iOS/Interview/Dubizzle/Challenge%202/ListingsApp/ListingsApp/Models/ViewModels/ListingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "F5B8569B-3A9D-4C0A-9F6B-EB4E01CBF3C5 - b4b2ca33fb88dcb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ListingsApp.ListingResponse) -&gt; () in ListingsApp.ListingViewModel.fetchListings() -&gt; ()"
+                  moduleName = "ListingsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ijaz/Desktop/iOS/Interview/Dubizzle/Challenge%202/ListingsApp/ListingsApp/Models/ViewModels/ListingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0A5F4FC-9142-4EBA-93C6-820BDE59AAE3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListingsApp/Repository/ListingRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchListings(complete:failure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F0A5F4FC-9142-4EBA-93C6-820BDE59AAE3 - b5a2792cd683e4de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListingsApp.ListingRepository.fetchListings(complete: (ListingsApp.ListingResponse) -&gt; (), failure: (Swift.Optional&lt;ListingsApp.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ListingsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ijaz/Desktop/iOS/Interview/Dubizzle/Challenge%202/ListingsApp/ListingsApp/Repository/ListingRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "F0A5F4FC-9142-4EBA-93C6-820BDE59AAE3 - 5df5e48f7415c9d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ListingsApp.ListingResponse) -&gt; () in ListingsApp.ListingRepository.fetchListings(complete: (ListingsApp.ListingResponse) -&gt; (), failure: (Swift.Optional&lt;ListingsApp.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ListingsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ijaz/Desktop/iOS/Interview/Dubizzle/Challenge%202/ListingsApp/ListingsApp/Repository/ListingRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AEBA253-2330-425C-842D-5E8B1FE616DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListingsApp/Views/ListingTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "listing"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5962BC68-E883-45A7-AFCD-6C46A8211F7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListingsApp/Views/ListingTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "listing"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A15C7087-97EE-4D27-B222-55F07C5E3A65"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListingsApp/Network/NetworkApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "request(_:success:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

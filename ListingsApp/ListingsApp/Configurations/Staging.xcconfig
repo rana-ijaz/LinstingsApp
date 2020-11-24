@@ -1,0 +1,10 @@
+//
+//  Staging.xcconfig
+//  ListingsApp
+//
+//  Created by Ijaz on 23/11/2020.
+//
+
+BASE_URL = https:/$()/ey3f2y0nre.execute-api.us
+APP_BUNDLE_ID = com.ListingsApp.staging
+APP_NAME = ListingsApp Staging
